@@ -1,3 +1,3 @@
-# Diagram Composer
+# Flowchart Composer
 
-Diagram Composer, compose diagrams easily.
+Flowchart Composer, compose flowcharts easily.
